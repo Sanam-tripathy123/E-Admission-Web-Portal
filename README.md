@@ -1,4 +1,4 @@
-E-Admission Web Portal
+# E-Admission Web Portal
 
 E-Admission system is aimed at developing an online admission application for an educational institute. This system is an online system that can be accessed throughout the organization and outside as well with proper login provided. Our system has two types of accessing modes, administrator and user. Student management system is managed by an administrator.
 
